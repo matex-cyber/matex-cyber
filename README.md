@@ -1,8 +1,5 @@
 ### 19y.o 👾
 
-```
-minecraft dev  /  web  /  cybersec  /  linux  /  java
-```
 
 - building things nobody asked for
 - breaking things on purpose
