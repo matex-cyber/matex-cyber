@@ -3,8 +3,6 @@
 
 - building things nobody asked for
 - breaking things on purpose
-- based in mongolia 🇲🇳
-
 ---
 
 **reach me**
